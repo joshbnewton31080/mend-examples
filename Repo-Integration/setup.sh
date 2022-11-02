@@ -27,7 +27,7 @@ case $SCM in
 
     bb)
     AGENT_PATH="Agent-for-BitBucket"
-    AGENT_TAR="agent-4-bitbucket.tar.gz"
+    AGENT_TAR="agent-4-bitbucket-22.8.2.tar.gz"
     ;;
 
     ghe)
